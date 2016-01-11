@@ -1,0 +1,21 @@
+body{
+	font-size: 1em;
+	color: white ;
+	background-color: black;
+	/*background-image: url("6 2380_50_0012_mit_Namen.jpg");*/
+}
+
+h1:hover{
+	font-size: 1.6em;
+}
+h2:hover{
+	font-size: 1.4em;
+}
+h3:hover{
+	font-size: 1.2em;
+}
+
+ol li:hover{
+}
+ul li:hover{
+}
